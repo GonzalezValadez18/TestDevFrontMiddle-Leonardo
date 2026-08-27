@@ -6,11 +6,9 @@ function App() {
     <div className="app">
       <div className="container">
         <header className="app-header">
-          <p className="app-header__eyebrow">Frontend Developer Test</p>
+          <p className="app-header__eyebrow">Prueba 1</p>
 
-          <h1>Evaluación Técnica Nuxiba</h1>
-
-          <p>Aplicación desarrollada con React, Hooks y Redux utilizando la API de JSONPlaceholder.</p>
+          <h1>Nuxiba</h1>
         </header>
 
         <main className="app-layout">

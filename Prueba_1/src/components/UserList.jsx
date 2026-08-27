@@ -16,7 +16,7 @@ function UserList() {
   }, [dispatch]);
 
   if (loading) {
-    return <p>Cargando usuarios...</p>;
+    return <p>Cargando los usuarios...</p>;
   }
 
   return (
